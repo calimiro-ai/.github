@@ -12,7 +12,7 @@ Built in Munich, Germany by Lennard Gross, Philip Synowiec und Younes Bendimerad
 <h2>Getting started</h2>
 <br>
 Calimiro AI does not provide the required hardware to run any Calimiro device.
-
+<br>
 <br>
 <h3>Installing</h3>
 <br>
