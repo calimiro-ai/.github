@@ -1,4 +1,6 @@
 # Calimiro AI
 
 A powerful smart mirror to film and track your workout session with AI.
-Built in Munich, Germany
+Built in Munich, Germany by Lennard Gross, Philip Synowiec und Younes Bendimerad
+
+<img src="thumbnail_frontend.png"/>
