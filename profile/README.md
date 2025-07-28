@@ -7,6 +7,7 @@ Built in Munich, Germany by Lennard Gross, Philip Synowiec und Younes Bendimerad
 
 <img src="thumbnails/thumbnail_mirror_real.jpg"/>
 
+
 <br>
 
 <h2>Getting started</h2>
