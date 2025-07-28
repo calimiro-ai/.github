@@ -9,6 +9,29 @@ Built in Munich, Germany, by Lennard Gross, Philip Synowiec und Younes Bendimera
 
 <br>
 
+<h2>Calimiro</h2>
+
+<h3>Our goal</h3>
+
+Calimiro AI develops a smart mirror, which is able to track your workout session and to recognize the workout exercise you're doing. It can also count repetitions, and so establish reliable statistics about your global performance.
+
+We want to make fitness and calisthenics easier for people who are starting in this discipline, without forcing them to be in the gym or to have a coach.
+
+<h3>Project overview</h3>
+
+A Calimiro consists of several components. A Raspberry Pi 4+, a transparent mirror with integrated display, and an ESP Camera. A webserver permits a WiFi connection between the Raspberry Pi and the Camera to establish an HTTP (or on newer versions RTSP) live video stream. The core of Calimiro, Calitracker, runs on the Raspberry Pi and analyzes your position with several pre-trained AI models. Another server runs on the Raspberry Pi to permit communication with the User Interface, built with <a href="www.magicmirror.builders">MagicMirror</a>.
+
+<h3>Future updates</h3>
+
+&bull;	Websockets for a better architecture  
+&bull;  Built-in computation of calories  
+&bull;  Pose & gesture correction  
+&bull;  Workout Session Program generation with AI  
+&bull;  3D pose & gesture models on the mirror  
+&bull;  Interactive plots of workout data  
+
+<br>
+
 <h2>Getting started</h2>
 
 Calimiro AI does not provide the required hardware to run any Calimiro device.
@@ -53,10 +76,7 @@ You will see your mirror in action by pointing your browser to <a href="http://l
 
 You can change the port or the IP address by editing the config/config.js file of calimirror. Please see the <a href="https://www.docs.magicmirror.builders">MagicMirror documentation</a> for details.
 
-
-
-<br><br>
-
-
+<br>
+<br>
 
 Copyright &copy; Lennard Gross, Philip Synowiec and Younes Bendimerad, 2025. All rights reserved.
