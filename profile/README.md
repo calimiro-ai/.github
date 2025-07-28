@@ -7,12 +7,9 @@ Built in Munich, Germany, by Lennard Gross, Philip Synowiec und Younes Bendimera
 
 <img src="thumbnails/thumbnail_mirror_real.jpg"/>
 
-<br><br>
-
-<details>
-<summary><h2 style="display: inline;">Getting started</h2></summary>
-
 <br>
+
+<h2>Getting started</h2>
 
 Calimiro AI does not provide the required hardware to run any Calimiro device.
 
@@ -56,7 +53,7 @@ You will see your mirror in action by pointing your browser to <a href="http://l
 
 You can change the port or the IP address by editing the config/config.js file of calimirror. Please see the <a href="https://www.docs.magicmirror.builders">MagicMirror documentation</a> for details.
 
-</details>
+
 
 <br><br>
 
