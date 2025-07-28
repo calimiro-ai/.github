@@ -1,8 +1,8 @@
 # Calimiro AI
 
 <h2>A powerful smart mirror to film and track your workout session with AI.</h2>
-Built in Munich, Germany, by Lennard Gross, Philip Synowiec und Younes Bendimerad at <a href="https://www.github.com/check24">@CHECK24</a><br>
-
+Built in Munich, Germany, by Lennard Gross, Philip Synowiec und Younes Bendimerad at <a href="https://www.github.com/check24">@CHECK24</a>  
+<br><br>
 
 
 <img src="thumbnails/thumbnail_mirror_real.jpg"/>
