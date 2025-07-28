@@ -48,7 +48,7 @@ Run it with:
 npm run server
 ```
 
-You will see your mirror run by pointing your browser to: <SERVER IP>:8080
+You will see your mirror run by pointing your browser to: localhost:8080
 
 <br>
 <h3>Configure your mirror</h3>
